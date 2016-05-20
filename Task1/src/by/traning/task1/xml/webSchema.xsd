@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/webSchema"
-	xmlns:tns="http://www.example.org/webSchema" elementFormDefault="qualified">
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.training.by/webSchema"
+	xmlns:tns="http://www.training.by/webSchema" elementFormDefault="qualified">
 	<element name="web-apps">
 		<complexType>
 			<sequence>

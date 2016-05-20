@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-apps xmlns="http://www.example.org/webSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://www.example.org/webSchema webSchema.xsd">
+<web-apps xmlns="http://www.training.by/webSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.training.by/webSchema webSchema.xsd">
 <web-app id="WebApp_9" version="a24">
 <display-name>Servlet 2.4 application</display-name>
 		<welcome-file-list>
